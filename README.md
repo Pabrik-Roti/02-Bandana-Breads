@@ -1,2 +1,2 @@
-# 02-Bandana-Breads
-The forst programmed bread by Pabrik Roti Indonesia
+# Bandana Breads
+The first programmed bread by Pabrik Roti Indonesia
